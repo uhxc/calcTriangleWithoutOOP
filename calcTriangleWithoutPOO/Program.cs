@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace calcTriangleWithoutPOO
+namespace calcTriangleWithoutOOP
 {
     internal class Program
     {
